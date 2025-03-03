@@ -1,6 +1,7 @@
-package tqdm needs to be installed from conda-forge 
->conda install -c conda-forge tqdm
+# Exploration of Optimization Strategies for Neural Networks
 
-package colour-science from conda-forge as well
+## Part of Course work at HAW Hamburg
 
-Pycharm IDE settings -> invert image when dark theme -> OFF  
+Analyse von Overfitting und Anwendung von Dropout und
+L2-Regularisierung als Gegenmaßnahmen in verschiedenen Modell-
+architekturen und Datensatzgrößen am MNIST Datensatz.
